@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\KingOfConquerersBert\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_DiscordBot.-1083763590.00" t="ExcludeRecursive" />
-    <e p="C:\Users\KingOfConquerersBert\RiderProjects\DiscordBot\DiscordBot" t="IncludeFlat">
+    <e p="C:\Users\Owner\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_DiscordBot.1656063624.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Owner\Documents\GitHub\bot\DiscordBot" t="IncludeFlat">
       <e p="DiscordBot.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="UtilBot" t="IncludeRecursive">
         <e p="AssemblyInfo.fs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Google.DataTable.Net.Wrapper.XML" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
         <e p="Program.fs" t="Include" />
